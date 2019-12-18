@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-class HackerRank {
+class SockMerchant {
     public static void main(String[] args) {
         int[] socks = {10, 20, 20, 10, 10, 30, 50, 10, 20};
         System.out.println(sockMerchant(socks.length, socks));

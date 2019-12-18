@@ -1,4 +1,4 @@
-class HackerRank {
+class CountingValleys {
     public static void main(String[] args) {
         String valleys = "UDDDUDUU";
         System.out.println(countingValleys(valleys.length(), valleys));
